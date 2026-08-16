@@ -1,0 +1,12 @@
+{
+  "name": "diagnostico-node",
+  "version": "1.0.0",
+  "description": "Script de diagnostico de sistema en Node.js",
+  "main": "diagnostico.js",
+  "scripts": {
+    "start": "node diagnostico.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
