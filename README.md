@@ -8,5 +8,5 @@ Este proyecto es un script ejecutable en consola desarrollado en Node.js que inf
 ## Instrucciones de Uso
 
 1. **Ejecución estándar:**
-   ```bash
+   
    npm start
